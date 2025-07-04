@@ -1,22 +1,28 @@
 ### 👸 Who am I ?
 
-一位成长中的软件工程师 | 📑 终身学习者 | 🌃 自然风光爱好者
+Java开发｜软件工程师｜生活探索者
+
+学无止境
+
+and enjoy your happiness.
 
 ### 👩‍💻 What can I do and what do I want to study? 
+**I CAN :**
 
-🚀 Java后端开发 ： SpringBoot | MyBatis | MySQL | Maven | Git | Linux基础
+Spring | MyBatis | MySQL | Maven | Git | Linux
 
-📊 数据建模&SQL优化｜🛠️ 中间件 | 消息队列 | 自动化部署｜☁️ AI & 云服务探索
+and more ??
 
-📈 ：前端温故知新与实践
+**I WANT TO IMPROVE :**
 
-and more ...
-
- 👾 学无止境，持续进阶 ...
+数据结构与算法/网络通信/
+HTML/CSS/JavaScript
+中间件/消息队列/
+AI/云服务/感兴趣的其它
 
 ### 📫 study and communication：
 
-[CSDN博客](https://blog.csdn.net/qq_36894378?spm=1010.2135.3001.5343)
+[恰在灯火阑珊处-CSDN博客](https://blog.csdn.net/qq_36894378?spm=1000.2115.3001.5343)
 
 邮箱📮：tangqq_fun@163.com
 
